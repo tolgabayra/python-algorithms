@@ -10,7 +10,7 @@
 
 #### Sorting
 
-- [] Bubble Sort
+- [x] Bubble Sort
 - [] Selection Sort
 - [] Insertion Sort
 - [] Merge Sort
