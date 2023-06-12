@@ -5,14 +5,14 @@
 
 #### Searching
 
-- [] Linear Search
-- [] Binary Search
+- [x] Linear Search
+- [ ] Binary Search
 
 #### Sorting
 
 - [x] Bubble Sort
-- [] Selection Sort
-- [] Insertion Sort
-- [] Merge Sort
-- [] Quick Sort
-- [] Counting Sort
+- [ ] Selection Sort
+- [ ] Insertion Sort
+- [ ] Merge Sort
+- [ ] Quick Sort
+- [ ] Counting Sort
