@@ -1,5 +1,6 @@
 from numpy import random
 
+## Böl ve yönet mantığı
 
 def BinarySearch(array, x, low, high):
     while low <= high:
