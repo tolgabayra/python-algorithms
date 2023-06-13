@@ -7,7 +7,6 @@ def InsertionSort(array):
             j = j - 1
         array[j + 1] = key
 
-
 array = [9, 5, 1, 4, 3]
 InsertionSort(array)
 print("Sorted Array in Ascending Order:")
