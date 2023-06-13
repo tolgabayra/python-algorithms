@@ -12,7 +12,7 @@
 
 - [x] Bubble Sort
 - [x] Insertion Sort
+- [x] Quick Sort
 - [ ] Selection Sort
 - [ ] Merge Sort
-- [ ] Quick Sort
 - [ ] Counting Sort
